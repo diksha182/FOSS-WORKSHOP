@@ -1,2 +1,2 @@
-# FOSS-WORKSHOP
+# FOSS WORKSHOP
 Foss Workshop NG Acharaya College
